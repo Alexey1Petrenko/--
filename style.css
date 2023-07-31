@@ -1,0 +1,10 @@
+
+body{ background-color: rgba(0, 232, 248, 0.507);
+    font-family: Arial, sans-serif;
+    line-height: 1.9;
+    margin: 1;
+    padding: 40px;}
+h1 { color: #034d03;
+    text-align: center;}
+.section { color: #811010;
+    margin-bottom: 20px;}
